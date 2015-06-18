@@ -22,3 +22,8 @@ A3<-3
 2<-PCLK
 PWDN->GND
 RESET->3.3v
+
+Above connections are useful, but I found that some of it could be modified, and the updated schematic is available HERE.
+http://wowelec.blogspot.in/2015/06/my-experiments-with-ov7670.html
+
+ERRATA: The MOSFETS must be tied to 3.3V. BOTH of them.
