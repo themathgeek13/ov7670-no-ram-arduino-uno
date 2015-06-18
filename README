@@ -27,3 +27,5 @@ Above connections are useful, but I found that some of it could be modified, and
 http://wowelec.blogspot.in/2015/06/my-experiments-with-ov7670.html
 
 ERRATA: The MOSFETS must be tied to 3.3V. BOTH of them.
+
+Could not get it to work yet, but upload code to Arduino using "make writeflash" in the PWD, then use Simple-Frame-Grabber to get images.
